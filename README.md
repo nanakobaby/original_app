@@ -47,17 +47,17 @@ Rails 5.2.4
 
 
 ## カタログ設計
-https://docs.google.com/spreadsheets/d/12mxg38WoNEvCWEtFIeyLgV9rGjnN5Gnji3_eonliqtg/edit#gid=0
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQBI5Za3X0_-KUGobWm3zLDX5_i1uQdEStIWrtyo4_UDet2LuzlMq6k_-4AZioMtwCug5dYjDX6eyK6/pubhtml
 
 ## テーブル定義
-https://app.diagrams.net/#G1H3KF6zrtA_d-Egm5bkev9cgEvMHuMjJz
-https://docs.google.com/spreadsheets/d/1LOk4mM-fs8Fv0JxM2p5CCXTTopefJgIye_45OabRRe0/edit#gid=0
+https://drive.google.com/file/d/1H3KF6zrtA_d-Egm5bkev9cgEvMHuMjJz/view?usp=sharing
+https://docs.google.com/spreadsheets/d/e/2PACX-1vT1_1mGH9dUf9rKI4p68s2yTcXMCfEFjQKGYKYuT6mGMUoYpFvt9ofLTavSp3UIO54UlAHjyi2O-jPX/pubhtml
 
 ## 画面遷移図
-https://app.diagrams.net/#G18d_ihz5n2UbFtnKEcaWiS5jpsFSgmmOX
+https://drive.google.com/file/d/18d_ihz5n2UbFtnKEcaWiS5jpsFSgmmOX/view?usp=sharing
 
 ## 画面ワイヤーフレーム
-https://docs.google.com/spreadsheets/d/1eLzlz2l7EvER-ch4t0C2DEuwQqZYl6R_UR3dnVfBoVU/edit#gid=0
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQkhDMHa-3S1Fqi77T1CV1yp2ErVCMP4V4vPpERYOUMaRFqWerrxuPvuRI4AU65JAOL4Smp-d7ITvEt/pubhtml
 
 ## 使用予定Gem
 * CarrierWave
@@ -115,11 +115,11 @@ Rails 5.2.4
   - [ ] Periodically (daily) notify users who have not confirmed the changed procedure.
 
 ## Catalog design,Table_Definition,Screen transition diagram,,Wire frame
-* https://docs.google.com/spreadsheets/d/12mxg38WoNEvCWEtFIeyLgV9rGjnN5Gnji3_eonliqtg/edit#gid=0
-* https://app.diagrams.net/#G1H3KF6zrtA_d-Egm5bkev9cgEvMHuMjJz
-* https://docs.google.com/spreadsheets/d/1LOk4mM-fs8Fv0JxM2p5CCXTTopefJgIye_45OabRRe0/edit#gid=0
-* https://app.diagrams.net/#G18d_ihz5n2UbFtnKEcaWiS5jpsFSgmmOX
-* https://docs.google.com/spreadsheets/d/1eLzlz2l7EvER-ch4t0C2DEuwQqZYl6R_UR3dnVfBoVU/edit#gid=0
+* https://docs.google.com/spreadsheets/d/e/2PACX-1vQBI5Za3X0_-KUGobWm3zLDX5_i1uQdEStIWrtyo4_UDet2LuzlMq6k_-4AZioMtwCug5dYjDX6eyK6/pubhtml
+* https://drive.google.com/file/d/1H3KF6zrtA_d-Egm5bkev9cgEvMHuMjJz/view?usp=sharing
+* https://docs.google.com/spreadsheets/d/e/2PACX-1vT1_1mGH9dUf9rKI4p68s2yTcXMCfEFjQKGYKYuT6mGMUoYpFvt9ofLTavSp3UIO54UlAHjyi2O-jPX/pubhtml
+* https://drive.google.com/file/d/18d_ihz5n2UbFtnKEcaWiS5jpsFSgmmOX/view?usp=sharing
+* https://docs.google.com/spreadsheets/d/e/2PACX-1vQkhDMHa-3S1Fqi77T1CV1yp2ErVCMP4V4vPpERYOUMaRFqWerrxuPvuRI4AU65JAOL4Smp-d7ITvEt/pubhtml
 
 ## To be used Gem
 * CarrierWave
