@@ -57,7 +57,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vT1_1mGH9dUf9rKI4p68s2yTcXMCfEFj
 https://drive.google.com/file/d/18d_ihz5n2UbFtnKEcaWiS5jpsFSgmmOX/view?usp=sharing
 
 ## 画面ワイヤーフレーム
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4VdwqyWKhhGlNsZIVP7d7l-PvzCkJ9_H6uWVmYYm5VsqWmOvurNqsHdmmzJQx-pBVvCiGvcfZVypy/pubhtml
+https://docs.google.com/spreadsheets/d/1gQun0BDy7NJJVVRwy-uO-mRCNIHExe1EzMaiNG7OSlE/edit?usp=sharing
 
 ## 使用予定Gem
 * CarrierWave
@@ -121,7 +121,7 @@ Rails 5.2.4
 * https://drive.google.com/file/d/1H3KF6zrtA_d-Egm5bkev9cgEvMHuMjJz/view?usp=sharing
 * https://docs.google.com/spreadsheets/d/e/2PACX-1vT1_1mGH9dUf9rKI4p68s2yTcXMCfEFjQKGYKYuT6mGMUoYpFvt9ofLTavSp3UIO54UlAHjyi2O-jPX/pubhtml
 * https://drive.google.com/file/d/18d_ihz5n2UbFtnKEcaWiS5jpsFSgmmOX/view?usp=sharing
-* https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4VdwqyWKhhGlNsZIVP7d7l-PvzCkJ9_H6uWVmYYm5VsqWmOvurNqsHdmmzJQx-pBVvCiGvcfZVypy/pubhtml
+* https://docs.google.com/spreadsheets/d/1gQun0BDy7NJJVVRwy-uO-mRCNIHExe1EzMaiNG7OSlE/edit?usp=sharing
 
 ## To be used Gem
 * CarrierWave
