@@ -64,6 +64,8 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4VdwqyWKhhGlNsZIVP7d7l-PvzCkJ9
 * mini_magick
 * devise
 * Whenever
+* rails_admin
+* cancancan
 
 # English Ver
 
